@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
-cout << "Hello world" << endl;
+  cout << "Hello world" << endl;
+  for (int i = 0; i++){}
   return 0;
 }
